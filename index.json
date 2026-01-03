@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "profile": {
+        "full_name": "Ángel Erick Cruz Olivera",
+        "title": "Senior Full-Stack Developer / CTO"
+    },
+    "variants": {
+        "es": "resume.es.json",
+        "en": "resume.en.json"
+    },
+    "settings": {
+        "default_variant": "es",
+        "theme": "modern",
+        "alllow_pdf_dowload": true,
+        "allow_html_download": true
+        
+    }
+}

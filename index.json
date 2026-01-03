@@ -10,9 +10,9 @@
     },
     "settings": {
         "default_variant": "es",
-        "theme": "modern",
+        "theme": "flatly",
         "alllow_pdf_dowload": true,
         "allow_html_download": true
-        
+
     }
 }

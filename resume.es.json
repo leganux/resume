@@ -2,10 +2,12 @@
     "version": "1.0.0",
     "profile": {
         "full_name": "Ángel Erick Cruz Olivera",
+        "photography": "https://erick_cruz.leganux.com/assets/profile.jpg",
+        "banner": "https://erick_cruz.leganux.com/assets/banner.jpg",
         "title": "Senior Full-Stack Developer / CTO",
         "summary": "Desarrollador Full-Stack con más de 17 años de experiencia. Creo firmemente que creer es crear, y a través del código estoy comprometido a hacer realidad mis sueños y ayudar a otros a alcanzar los suyos.",
         "birth_date": "1993-04-11",
-        "age": 30,
+        "age": 32,
         "location": {
             "city": "Pachuca",
             "state": "Hidalgo",
